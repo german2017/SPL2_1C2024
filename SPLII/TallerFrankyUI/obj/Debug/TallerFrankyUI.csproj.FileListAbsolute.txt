@@ -1,0 +1,71 @@
+C:\Users\lauta\source\repos\Final - 20211208\TallerFrankyUI\bin\Debug\Parcial.WindowsForm.exe.config
+C:\Users\lauta\source\repos\Final - 20211208\TallerFrankyUI\bin\Debug\Parcial.WindowsForm.exe
+C:\Users\lauta\source\repos\Final - 20211208\TallerFrankyUI\bin\Debug\Parcial.WindowsForm.pdb
+C:\Users\lauta\source\repos\Final - 20211208\TallerFrankyUI\bin\Debug\Entidades.dll
+C:\Users\lauta\source\repos\Final - 20211208\TallerFrankyUI\bin\Debug\Entidades.pdb
+C:\Users\lauta\source\repos\Final - 20211208\TallerFrankyUI\obj\Debug\TallerFrankyUI.csprojAssemblyReference.cache
+C:\Users\lauta\source\repos\Final - 20211208\TallerFrankyUI\obj\Debug\TallerFrankyUi.FrmPrincipal.resources
+C:\Users\lauta\source\repos\Final - 20211208\TallerFrankyUI\obj\Debug\TallerFrankyUi.FrmReparacion.resources
+C:\Users\lauta\source\repos\Final - 20211208\TallerFrankyUI\obj\Debug\TallerFrankyUi.FrmBarco.resources
+C:\Users\lauta\source\repos\Final - 20211208\TallerFrankyUI\obj\Debug\Parcial.WindowsForm.Properties.Resources.resources
+C:\Users\lauta\source\repos\Final - 20211208\TallerFrankyUI\obj\Debug\TallerFrankyUI.csproj.GenerateResource.cache
+C:\Users\lauta\source\repos\Final - 20211208\TallerFrankyUI\obj\Debug\TallerFrankyUI.csproj.CoreCompileInputs.cache
+C:\Users\lauta\source\repos\Final - 20211208\TallerFrankyUI\obj\Debug\TallerFrankyUI.csproj.CopyComplete
+C:\Users\lauta\source\repos\Final - 20211208\TallerFrankyUI\obj\Debug\Parcial.WindowsForm.exe
+C:\Users\lauta\source\repos\Final - 20211208\TallerFrankyUI\obj\Debug\Parcial.WindowsForm.pdb
+C:\Users\ezeta\OneDrive\Escritorio\Final - 20211208\TallerFrankyUI\obj\Debug\TallerFrankyUI.csproj.AssemblyReference.cache
+C:\Users\ezeta\OneDrive\Escritorio\Final - 20211208\TallerFrankyUI\obj\Debug\TallerFrankyUi.FrmPrincipal.resources
+C:\Users\ezeta\OneDrive\Escritorio\Final - 20211208\TallerFrankyUI\obj\Debug\TallerFrankyUi.FrmReparacion.resources
+C:\Users\ezeta\OneDrive\Escritorio\Final - 20211208\TallerFrankyUI\obj\Debug\TallerFrankyUi.FrmBarco.resources
+C:\Users\ezeta\OneDrive\Escritorio\Final - 20211208\TallerFrankyUI\obj\Debug\Parcial.WindowsForm.Properties.Resources.resources
+C:\Users\ezeta\OneDrive\Escritorio\Final - 20211208\TallerFrankyUI\obj\Debug\TallerFrankyUI.csproj.GenerateResource.cache
+C:\Users\ezeta\OneDrive\Escritorio\Final - 20211208\TallerFrankyUI\obj\Debug\TallerFrankyUI.csproj.CoreCompileInputs.cache
+C:\Users\ezeta\OneDrive\Escritorio\Final - 20211208\TallerFrankyUI\bin\Debug\Parcial.WindowsForm.exe.config
+C:\Users\ezeta\OneDrive\Escritorio\Final - 20211208\TallerFrankyUI\bin\Debug\Parcial.WindowsForm.exe
+C:\Users\ezeta\OneDrive\Escritorio\Final - 20211208\TallerFrankyUI\bin\Debug\Parcial.WindowsForm.pdb
+C:\Users\ezeta\OneDrive\Escritorio\Final - 20211208\TallerFrankyUI\bin\Debug\Entidades.dll
+C:\Users\ezeta\OneDrive\Escritorio\Final - 20211208\TallerFrankyUI\bin\Debug\Entidades.pdb
+C:\Users\ezeta\OneDrive\Escritorio\Final - 20211208\TallerFrankyUI\obj\Debug\TallerFrankyUI.csproj.CopyComplete
+C:\Users\ezeta\OneDrive\Escritorio\Final - 20211208\TallerFrankyUI\obj\Debug\Parcial.WindowsForm.exe
+C:\Users\ezeta\OneDrive\Escritorio\Final - 20211208\TallerFrankyUI\obj\Debug\Parcial.WindowsForm.pdb
+C:\Users\ezeta\OneDrive\Escritorio\Barcos (Pirata-Marina)\TallerFrankyUI\bin\Debug\Parcial.WindowsForm.exe.config
+C:\Users\ezeta\OneDrive\Escritorio\Barcos (Pirata-Marina)\TallerFrankyUI\bin\Debug\Parcial.WindowsForm.exe
+C:\Users\ezeta\OneDrive\Escritorio\Barcos (Pirata-Marina)\TallerFrankyUI\bin\Debug\Parcial.WindowsForm.pdb
+C:\Users\ezeta\OneDrive\Escritorio\Barcos (Pirata-Marina)\TallerFrankyUI\bin\Debug\Entidades.dll
+C:\Users\ezeta\OneDrive\Escritorio\Barcos (Pirata-Marina)\TallerFrankyUI\bin\Debug\Entidades.pdb
+C:\Users\ezeta\OneDrive\Escritorio\Barcos (Pirata-Marina)\TallerFrankyUI\obj\Debug\TallerFrankyUI.csproj.AssemblyReference.cache
+C:\Users\ezeta\OneDrive\Escritorio\Barcos (Pirata-Marina)\TallerFrankyUI\obj\Debug\TallerFrankyUi.FrmPrincipal.resources
+C:\Users\ezeta\OneDrive\Escritorio\Barcos (Pirata-Marina)\TallerFrankyUI\obj\Debug\TallerFrankyUi.FrmReparacion.resources
+C:\Users\ezeta\OneDrive\Escritorio\Barcos (Pirata-Marina)\TallerFrankyUI\obj\Debug\TallerFrankyUi.FrmBarco.resources
+C:\Users\ezeta\OneDrive\Escritorio\Barcos (Pirata-Marina)\TallerFrankyUI\obj\Debug\Parcial.WindowsForm.Properties.Resources.resources
+C:\Users\ezeta\OneDrive\Escritorio\Barcos (Pirata-Marina)\TallerFrankyUI\obj\Debug\TallerFrankyUI.csproj.GenerateResource.cache
+C:\Users\ezeta\OneDrive\Escritorio\Barcos (Pirata-Marina)\TallerFrankyUI\obj\Debug\TallerFrankyUI.csproj.CoreCompileInputs.cache
+C:\Users\ezeta\OneDrive\Escritorio\Barcos (Pirata-Marina)\TallerFrankyUI\obj\Debug\TallerFrankyUI.csproj.CopyComplete
+C:\Users\ezeta\OneDrive\Escritorio\Barcos (Pirata-Marina)\TallerFrankyUI\obj\Debug\Parcial.WindowsForm.exe
+C:\Users\ezeta\OneDrive\Escritorio\Barcos (Pirata-Marina)\TallerFrankyUI\obj\Debug\Parcial.WindowsForm.pdb
+C:\Users\German PC\Desktop\Barcos (Pirata-Marina)\TallerFrankyUI\bin\Debug\Parcial.WindowsForm.exe.config
+C:\Users\German PC\Desktop\Barcos (Pirata-Marina)\TallerFrankyUI\bin\Debug\Parcial.WindowsForm.exe
+C:\Users\German PC\Desktop\Barcos (Pirata-Marina)\TallerFrankyUI\bin\Debug\Parcial.WindowsForm.pdb
+C:\Users\German PC\Desktop\Barcos (Pirata-Marina)\TallerFrankyUI\obj\Debug\TallerFrankyUI.csproj.AssemblyReference.cache
+C:\Users\German PC\Desktop\Barcos (Pirata-Marina)\TallerFrankyUI\obj\Debug\TallerFrankyUI.csproj.SuggestedBindingRedirects.cache
+C:\Users\German PC\Desktop\Barcos (Pirata-Marina)\TallerFrankyUI\obj\Debug\TallerFrankyUi.FrmPrincipal.resources
+C:\Users\German PC\Desktop\Barcos (Pirata-Marina)\TallerFrankyUI\obj\Debug\TallerFrankyUi.FrmReparacion.resources
+C:\Users\German PC\Desktop\Barcos (Pirata-Marina)\TallerFrankyUI\obj\Debug\TallerFrankyUi.FrmBarco.resources
+C:\Users\German PC\Desktop\Barcos (Pirata-Marina)\TallerFrankyUI\obj\Debug\Parcial.WindowsForm.Properties.Resources.resources
+C:\Users\German PC\Desktop\Barcos (Pirata-Marina)\TallerFrankyUI\obj\Debug\TallerFrankyUI.csproj.GenerateResource.cache
+C:\Users\German PC\Desktop\Barcos (Pirata-Marina)\TallerFrankyUI\obj\Debug\TallerFrankyUI.csproj.CoreCompileInputs.cache
+C:\Users\German PC\Desktop\Barcos (Pirata-Marina)\TallerFrankyUI\obj\Debug\Parcial.WindowsForm.exe
+C:\Users\German PC\Desktop\Barcos (Pirata-Marina)\TallerFrankyUI\obj\Debug\Parcial.WindowsForm.pdb
+C:\Users\German PC\Desktop\SPLII\TallerFrankyUI\bin\Debug\Parcial.WindowsForm.exe.config
+C:\Users\German PC\Desktop\SPLII\TallerFrankyUI\bin\Debug\Parcial.WindowsForm.exe
+C:\Users\German PC\Desktop\SPLII\TallerFrankyUI\bin\Debug\Parcial.WindowsForm.pdb
+C:\Users\German PC\Desktop\SPLII\TallerFrankyUI\obj\Debug\TallerFrankyUI.csproj.AssemblyReference.cache
+C:\Users\German PC\Desktop\SPLII\TallerFrankyUI\obj\Debug\TallerFrankyUI.csproj.SuggestedBindingRedirects.cache
+C:\Users\German PC\Desktop\SPLII\TallerFrankyUI\obj\Debug\TallerFrankyUi.FrmPrincipal.resources
+C:\Users\German PC\Desktop\SPLII\TallerFrankyUI\obj\Debug\TallerFrankyUi.FrmReparacion.resources
+C:\Users\German PC\Desktop\SPLII\TallerFrankyUI\obj\Debug\TallerFrankyUi.FrmBarco.resources
+C:\Users\German PC\Desktop\SPLII\TallerFrankyUI\obj\Debug\Parcial.WindowsForm.Properties.Resources.resources
+C:\Users\German PC\Desktop\SPLII\TallerFrankyUI\obj\Debug\TallerFrankyUI.csproj.GenerateResource.cache
+C:\Users\German PC\Desktop\SPLII\TallerFrankyUI\obj\Debug\TallerFrankyUI.csproj.CoreCompileInputs.cache
+C:\Users\German PC\Desktop\SPLII\TallerFrankyUI\obj\Debug\Parcial.WindowsForm.exe
+C:\Users\German PC\Desktop\SPLII\TallerFrankyUI\obj\Debug\Parcial.WindowsForm.pdb
